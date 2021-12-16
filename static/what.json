@@ -1,0 +1,4 @@
+{
+  "snipping tool": {"data": "The Snipping Tool has been replaced with the Screenshot tool.", "seealso": ["screenshot"]},
+  "screenshot": {"data": "The easiest way to access the screenshot tool is to go into the Utility menu, and picking Take Screenshot.<BR><BR>There are also other ways. The <KBD>PRINTSCREEN</KBD> key will allow you to select a region of your screen to capture; <KBD>SHIFT-PRINTSCREEN</KBD> will capture the whole thing. All methods will end up with a saved file, and the PRINTSCREEN method will also copy it to your clipboard."}
+  }

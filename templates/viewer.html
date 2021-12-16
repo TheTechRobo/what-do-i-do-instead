@@ -1,0 +1,16 @@
+<link rel="stylesheet" type="text/css" href="/static/m.css">
+
+{{ key.data | safe }}
+
+{% if key.seealso %}
+<h1>
+  SeeAlso
+</h1>
+<UL>
+{%endif%}
+{% for i in key.seealso %}
+<LI><a href="/{{i}}">{{i}}</a></LI>
+{%endfor%}
+</UL>
+<BR><BR>
+<I>I'm always looking for contributions. If you can, go to <a href="https://github.com/thetechrobo/what-do-i-do-instead">the GitHub repo</a>.</i>
