@@ -1,0 +1,8 @@
+__pycache__/
+*.py[co]
+*.mo
+*.bak
+*.log
+[Tt]humbs.db
+.DS_Store
+._.*
